@@ -1,0 +1,14 @@
+body{
+background-color: rgba(129, 211, 204, 0.466);
+}
+.card{
+    display:inline-block;
+    font-size: 20px;
+}
+.container h1{
+    font-size: 50px  ;
+    letter-spacing: 5px;
+    border-radius: 0ch;
+    transition: all;
+    -webkit-animation-delay: ;
+}
